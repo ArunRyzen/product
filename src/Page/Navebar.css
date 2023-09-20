@@ -1,0 +1,14 @@
+.navebar{
+    background-color: orange;
+    display: flex;
+}
+.logOut{
+    margin-left: auto;
+    margin-right: 40px;
+    background-color: orange;
+    border: none;
+}
+.logoo{
+    width: 50px;
+    height: 50px;
+}

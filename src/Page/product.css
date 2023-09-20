@@ -1,0 +1,14 @@
+.common{
+    display: flex;
+}
+.picture{
+    width: 150px;
+    height: 150px;
+}
+.Product{
+    width: 50%;
+    
+}
+.cart{
+    color: purple;
+}
